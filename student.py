@@ -58,7 +58,7 @@ class Student:
             return True
         return False
 
-    # toString equivalent in Python
+    # Python's version of the toString()
     def __str__(self):
         return (f"{self.first_name} {self.last_name}\n"
                 f"Student number: {self.student_number}\n"
