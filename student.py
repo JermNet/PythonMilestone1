@@ -37,3 +37,4 @@ class Student:
                 f"Midterm grade 1: {self.midterm_grade1:.1f}\n"
                 f"Midterm grade 2: {self.midterm_grade2:.1f}\n"
                 f"Final grade: {self.final_grade:.1f}")
+print("Hello world")
